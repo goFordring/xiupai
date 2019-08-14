@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "找师傅",
+  "usingComponents": {
+          "wux-row": "/static/wux/row/index",
+          "wux-col": "/static/wux/col/index",
+          "van-search":"/static/vant/search/index",
+          "i-icon":"/static/ivew/icon/index"
+      }
+}
