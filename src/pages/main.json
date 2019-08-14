@@ -1,3 +1,7 @@
 {
-  
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+          "wux-row": "/static/wux/row/index",
+          "wux-col": "/static/wux/col/index"
+      }
 }

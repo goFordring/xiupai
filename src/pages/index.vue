@@ -1,5 +1,7 @@
 <template>
-  <div>测试测试测试</div>
+  <div class="map">
+    <map name="mapbg"></map>
+  </div>
 </template>
 
 <script>
@@ -10,4 +12,8 @@
 </script>
 
 <style scoped>
+  .map{
+    width: 100%;
+    height: 100vh;
+  }
 </style>
